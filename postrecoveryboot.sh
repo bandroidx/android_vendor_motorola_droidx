@@ -1,4 +1,5 @@
 #!/sbin/sh
+# bandroidx: looks ok
 
 sleep 5
 
