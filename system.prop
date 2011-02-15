@@ -1,6 +1,7 @@
 #
 # system.prop for smdkc110
 #
+# bandroidx: ok
 
 rild.libpath=/system/lib/libreference-ril.so
 rild.libargs=-d /dev/ttyS0
