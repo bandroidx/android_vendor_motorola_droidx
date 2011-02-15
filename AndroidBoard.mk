@@ -1,3 +1,4 @@
+#bandroidx: looks ok
 LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
